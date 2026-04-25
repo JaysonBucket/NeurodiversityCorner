@@ -6,24 +6,25 @@ AI can reduce the friction of everyday work.
 - Start with where you struggle.  
 - Try what feels irrelevant.  
 - Keep what actually helps.
-- Small changes matter more than perfect systems.
+- Small changes matter more than perfect systems.  
 
-> Many things become useful once you actually try them.  
-
-## Start with your challenges
+> Many things become useful once you actually try them.
+</br>
 
 The most important step is not learning prompts or tools. It is asking yourself: 
 > Where do I struggle most in my daily work?  
-Once you understand this, you can start using AI **targeted and effectively**.  
+</br>
 
-## Example
-
-Imagine this situation:
-- You have a task you’ve been avoiding. It feels unclear, too big, or just mentally exhausting.
-- Instead of pushing through, you ask AI:
-
+Example: You have a task you’ve been avoiding. It feels unclear, too big, or just mentally exhausting. Have a try on:
 > “Break this task into 5 simple steps and tell me what I should do first.”  
-  
+</br>
+
+## 📚 Explore further
+
+### 🌍 Public Resources (External ideas, tools and inspiration you can explore and try for yourself)
+### 🧠 Personalization (Make Copilot adapt to your individual work style and reduce daily friction)
+
+
 ## Guiding idea
 
 This is not about perfect setups or complex systems. It is about: making small changes that reduce friction and make daily work easier
