@@ -5,18 +5,7 @@ AI can make a real difference in everyday work — especially for neurodivergent
 - Important: AI doesn’t replace your work — it reduces the friction to do it.
 - Not everything will feel useful at first. And that is completely normal. But in practice: **Many things become useful once you actually try them.**  
 
-## Why this matters
-
-Many neurodivergent people experience challenges such as:
-- getting started on tasks
-- maintaining focus
-- prioritising effectively
-- handling complex or dense information
-- finishing tasks consistently
-
-These are not flaws — they are differences in how we process, structure and interact with information.
-
-AI can act as a **cognitive support layer**:
+Many neurodivergent people experience challenges, these are not flaws — they are differences in how we process, structure and interact with information. AI can act as a **cognitive support layer**:
 - helping you structure thoughts
 - simplifying complexity
 - externalising mental load
