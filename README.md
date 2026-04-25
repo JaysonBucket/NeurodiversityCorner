@@ -1,24 +1,28 @@
 # 🧠 AI Support for Neurodivergent Work Styles
 
-AI can make a real difference in everyday work — especially for neurodivergent individuals.  
-- This repository is intentionally tool-agnostic where possible.  
-- Important: AI doesn’t replace your work — it reduces the friction to do it.
-- Not everything will feel useful at first. And that is completely normal. But in practice: **Many things become useful once you actually try them.**  
+Many neurodivergent people experience challenges, these are not flaws — they are differences in how we process, structure and interact with information.
 
-Many neurodivergent people experience challenges, these are not flaws — they are differences in how we process, structure and interact with information. AI can act as a **cognitive support layer**:
-- helping you structure thoughts
-- simplifying complexity
-- externalising mental load
-- guiding you through tasks  
+AI can reduce the friction of everyday work.
+- Start with where you struggle.  
+- Try what feels irrelevant.  
+- Keep what actually helps.
+- Small changes matter more than perfect systems.
+
+> Many things become useful once you actually try them.  
 
 ## Start with your challenges
 
-The most important step is not learning prompts or tools. It is asking yourself: Where do I struggle most in my daily work?  
+The most important step is not learning prompts or tools. It is asking yourself: 
+> Where do I struggle most in my daily work?  
 Once you understand this, you can start using AI **targeted and effectively**.  
+
+## Example
 
 Imagine this situation:
 - You have a task you’ve been avoiding. It feels unclear, too big, or just mentally exhausting.
-- Instead of pushing through, you ask AI: > “Break this task into 5 simple steps and tell me what I should do first.”
+- Instead of pushing through, you ask AI:
+
+> “Break this task into 5 simple steps and tell me what I should do first.”  
   
 ## Guiding idea
 
