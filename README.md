@@ -21,9 +21,9 @@ Example: You have a task you’ve been avoiding. It feels unclear, too big, or j
 
 ## 📚 Explore further
 
-- 🧠 [Personalization (Use Copilot Memory and Custom Instructions to make it adapt to your individual needs and reduce friction)](docs/Personalization.md)
-- 💡 [UseCases (ready to apply little helpers)](docs/UseCases.md)
-- 🌍 [Public Resources (External ideas, tools and inspiration you can explore and try for yourself)](docs/Resources.md)  
+- 🧠 [**Personalization** (Use Copilot Memory and Custom Instructions to make it adapt to your individual needs and reduce friction)](docs/Personalization.md)
+- 💡 [**UseCases / Prompts** (ready to apply little helpers for daily work)](docs/UseCases.md)
+- 🌍 [**Public Resources** (External ideas, tools and inspiration you can explore and try for yourself)](docs/Resources.md)  
 </br>
 
 ## Guiding idea
