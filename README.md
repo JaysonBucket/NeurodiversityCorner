@@ -23,7 +23,8 @@ Example: You have a task you’ve been avoiding. It feels unclear, too big, or j
 
 - 🧠 [**Personalization** (Use Copilot Memory and Custom Instructions to make it adapt to your individual needs and reduce friction)](docs/Personalization.md)
 - 💡 [**UseCases / Prompts** (ready to apply little helpers for daily work)](docs/UseCases.md)
-- 🌍 [**Public Resources** (External ideas, tools and inspiration you can explore and try for yourself)](docs/Resources.md)  
+- 🌍 [**Public Resources** (External ideas, tools and inspiration you can explore and try for yourself)](docs/Resources.md)
+- 🤖 [**Check out ManyMinds Agent** (Declarative agent you can set up to let your peers learn why Neuroinclusion matters)](https://github.com/JaysonBucket/ManyMinds)
 </br>
 
 ## Guiding idea
