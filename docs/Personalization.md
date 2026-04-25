@@ -1,4 +1,5 @@
 # 🧠 Personalization
+[↑ Back to README](../README.md)
 
 ## AI becomes significantly more helpful when it is adapted to how you work.
 This is called **personalization**
