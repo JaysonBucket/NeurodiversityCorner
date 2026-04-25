@@ -60,5 +60,5 @@ This page curates **public, research-backed resources** on how Microsoft Copilot
 
 ## 🔗 Related Pages
 
-- [Personalization Guide](./personalization.md)
+- [Personalization Guide](./Personalization.md)
 - [Use Cases](./use-cases.md)
