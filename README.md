@@ -30,3 +30,5 @@ This repository evolves over time, it might contain:
 - links to deeper topics (e.g. personalization, agents, etc.)
 
 This repository is maintained in **English only**, if needed, please use your browser’s translation features
+
+> Small changes can have a disproportionate impact.
