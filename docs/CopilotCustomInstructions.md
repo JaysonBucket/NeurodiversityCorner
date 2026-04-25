@@ -1,7 +1,7 @@
 # ⚙️ Custom Instructions
 
 [← Back to Personalization](Personalization.md)  
-[↑ Back to README](README.md)
+[↑ Back to README](../README.md)
 
 
 ## You define how AI should behave.
