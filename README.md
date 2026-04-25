@@ -22,6 +22,9 @@ Example: You have a task you’ve been avoiding. It feels unclear, too big, or j
 ## 📚 Explore further
 
 You might want to start[ personalization with a first hands-on prompt, making Copilot learn from your previous conversations](docs/LearnFromConversations.md).  
+
+</br>
+
 More information around the topic to be found here:  
 
 - 🧠 [**Personalization** (Use Copilot Memory and Custom Instructions to make it adapt to your individual needs and reduce friction)](docs/Personalization.md)
