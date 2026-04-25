@@ -1,4 +1,4 @@
-## 🧠 AI Support for Neurodivergent Work Styles
+## 🧠 AI Support for Neurodiverts (and anyone else)
 
 Many neurodivergent people experience challenges, these are not flaws — they are differences in how we process, structure and interact with information.
 
