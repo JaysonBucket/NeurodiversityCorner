@@ -1,6 +1,6 @@
 # ⚙️ Custom Instructions
 
-[← Back to Personalization](personalization.md)  
+[← Back to Personalization](Personalization.md)  
 [↑ Back to README](README.md)
 
 
