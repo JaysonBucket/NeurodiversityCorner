@@ -69,46 +69,34 @@ The basic Memory flow in Microsoft 365 Copilot is:
 
 <br>
 
+
 ## Examples
 
-### 1) Problem: You lose energy filtering long answers
-**Why Memory is the right choice**  
-This is not a one-time issue. It is a recurring preference in how you consume information.
-
-**What to save**
-> Remember that I prefer short, structured answers with the key point first.
-
-<br>
-
-### 2) Problem: You get overwhelmed when tasks feel too large
-**Why Memory is the right choice**  
-This describes a recurring need in how you approach work, not just one specific task.
-
-**What to save**
-> Remember that I work better when tasks are broken into small, actionable steps.
+| Problem | Why Memory is the right choice | What to save |
+|---|---|---|
+| Long answers cost too much energy to filter | This is a recurring preference in how you consume information, not a one-time request | `Remember that I prefer short, structured answers with the key point first.` |
+| Tasks feel too large and overwhelming | This describes a repeated support need in how you approach work | `Remember that I work better when tasks are broken into small, actionable steps.` |
+| Checklist-style outputs work best for you | This is a stable working preference that can help across many situations | `Remember that checklist-style outputs are easiest for me to work with.` |
+| You need clear completion criteria | This is a recurring pattern in how useful support should be shaped | `Remember that I need clear definitions of “done” to finish tasks confidently.` |
+| You lose focus when too much information appears at once | This describes an ongoing cognitive load issue, not a single task | `Remember that I get overwhelmed by overly detailed answers and do best with concise summaries first.` |
+| Starting is easier than finishing | This reflects a recurring challenge that AI can support across many contexts | `Remember that I usually need more help finishing tasks than starting them.` |
 
 <br>
 
-### 3) Problem: You work best with checklists
-**Why Memory is the right choice**  
-This is a stable working preference you probably want across many different situations.
+## A good rule of thumb
 
-**What to save**
-> Remember that checklist-style outputs are easiest for me to work with.
+If the sentence starts to sound like:
 
-<br>
+- “I usually…”
+- “I prefer…”
+- “I work best when…”
+- “I struggle with…”
 
-### 4) Problem: Starting is easier than finishing
-**Why Memory is the right choice**  
-This is a recurring pattern in how support should be shaped for you.
-
-**What to save**
-> Remember that I usually need more help finishing tasks than starting them.
+…then it is often a good candidate for Memory.
 
 <br>
 
 ## Guiding idea
 
 Memory is about this:
-
-> You do not adapt to AI every time. AI starts adapting to you.
+> You do not have to re-explain yourself every time.
