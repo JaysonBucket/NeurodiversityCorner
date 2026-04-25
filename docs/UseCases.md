@@ -188,4 +188,4 @@ Simplify this as much as possible:
 ## 🔗 Related Pages
 
 - [Public Resources](Resources.md)
-- [Pesonalize Copilot](Pesonalization.md)
+- [Pesonalize Copilot](Personalization.md)
