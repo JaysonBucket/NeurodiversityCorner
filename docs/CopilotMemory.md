@@ -1,5 +1,8 @@
 # 🧠 Memory
 
+[← Back to Personalization](Personalization.md)  
+[↑ Back to README](../README.md)
+
 ## AI can adapt to how you work over time.
 
 Memory allows AI to learn patterns about you, so you do not have to repeat them every time.
