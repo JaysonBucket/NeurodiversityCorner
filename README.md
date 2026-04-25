@@ -19,7 +19,7 @@ Example: You have a task you’ve been avoiding. It feels unclear, too big, or j
 > “Break this task into 5 simple steps and tell me what I should do first.”  
 </br>
 
-## 📚 Explore further
+## 📚 Explore
 
 You might want to start[ personalization with a first hands-on prompt, making Copilot learn from your previous conversations](docs/LearnFromConversations.md).  
 
