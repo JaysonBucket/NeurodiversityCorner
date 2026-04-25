@@ -22,7 +22,7 @@ Example: You have a task you’ve been avoiding. It feels unclear, too big, or j
 ## 📚 Explore further
 
 - 🌍 Public Resources (External ideas, tools and inspiration you can explore and try for yourself)  
-- 🧠 Personalization (Use Copilot Memory and Custom Instructions to make it adapt to your individual needs and reduce friction)  
+- 🧠 [Personalization (Use Copilot Memory and Custom Instructions to make it adapt to your individual needs and reduce friction)](Pesonalization.md)  
 </br>
 
 ## Guiding idea
