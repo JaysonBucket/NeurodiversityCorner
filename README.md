@@ -23,6 +23,7 @@ Example: You have a task you’ve been avoiding. It feels unclear, too big, or j
 
 - 🌍 Public Resources (External ideas, tools and inspiration you can explore and try for yourself)  
 - 🧠 Personalization (Make Copilot adapt to your individual work style and reduce daily friction)  
+</br>
 
 ## Guiding idea
 
