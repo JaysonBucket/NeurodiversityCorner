@@ -6,7 +6,10 @@
 ## AI can adapt to how you work over time.
 
 Memory allows AI to learn patterns about you, so you do not have to repeat them every time.
-This is useful when something describes how you generally work and keeps showing up again and again.
+This is useful when something describes how you generally work and keeps showing up again and again.  
+
+Copilot can become significantly more helpful when it adapts to your individual preferences, thinking style, and recurring needs. 
+[This section helps you extract those patterns from your past conversations](LearnFromConversations.md) and turn them into reusable customizations.
 
 <br>
 
