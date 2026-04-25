@@ -28,7 +28,8 @@ Instead of fixing this every time manually, you can:
 Copilot offers two simple ways to do this:
 - **[Copilot Memory](CopilotMemory.md)** → AI learns and adapts to your working patterns over time  
 - **[Copilot Custom instructions](CopilotCustomInstructions.md)** → You define how AI should behave.
-- **[Limitations & Mitigations](LimitationsMitigations.md)**
+- **[Limitations](Limitations.md)**
+- **[Mitigations](Mitigations.md)**
 
 <br>
 
