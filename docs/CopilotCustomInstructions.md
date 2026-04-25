@@ -6,7 +6,10 @@
 
 ## You define how AI should behave.
 Custom Instructions let you set the rules once instead of correcting the output every time.
-This is useful when you already know what kind of answers work best for you.
+This is useful when you already know what kind of answers work best for you.  
+
+Copilot can become significantly more helpful when it adapts to your individual preferences, thinking style, and recurring needs. 
+[This section helps you extract those patterns from your past conversations](LearnFromConversations.md) and turn them into reusable customizations.
 
 <br>
 
