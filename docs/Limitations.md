@@ -1,5 +1,11 @@
 # ⚠️ Limitations
 
+
+[← Back to Personalization](Personalization.md)  
+[↑ Back to README](../README.md)
+
+</br>
+
 Personalization can significantly reduce friction — but it has some important limitations.
 
 <br>
