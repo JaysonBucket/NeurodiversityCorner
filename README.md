@@ -8,9 +8,9 @@ This is part of a broader set of Copilot agent and learning materials. Check out
 - There is no single “normal” or “best” way to think. Cognitive diversity includes different learning styles, strategies, and perspectives. Variation is natural, stable, and useful.
 - Diversity enables better systems. Groups with diverse cognitive approaches are more robust, creative, and innovative than groups optimized for sameness.
 - Neurodiversity ≠ deficit. Moving away from a deficit model is not ideology — it’s evidence‑based. Difference is an enabler, not something to fix.
-- This project is built for that reality. It embraces multiple ways of thinking, working, and problem solving — because that’s how complex problems actually get solved.
+- This project is built for that reality. It embraces multiple ways of thinking, working, and problem solving — because that’s how complex problems actually get solved.  
 
-**Cognitive diversity is not a risk. It’s the recipe for resilience, creativity, and success.**
+**Cognitive diversity is not a risk. It’s the recipe for resilience, creativity, and success.**  
 
 </br>
 
