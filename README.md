@@ -16,11 +16,6 @@ This is part of a broader set of Copilot agent and learning materials. Check out
 
 ## 🧠 AI Support for Neurodiverts (and anyone else)
 
-This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
-https://www.jaysons.dev
-
-</br>
-
 Many neurodivergent people experience challenges, these are not flaws — they are differences in how we process, structure and interact with information.
 
 AI can reduce the friction of everyday work.
