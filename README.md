@@ -12,6 +12,11 @@ This is part of a broader set of Copilot agent and learning materials. Check out
 
 **Cognitive diversity is not a risk. It’s the recipe for resilience, creativity, and success.**  
 
+
+[Check out Otto's area to see what we can learn from octopuses when it comes to ND](explained.md)
+<img width="160" height="160" alt="otto" src="https://github.com/user-attachments/assets/f7e3b571-ba5d-4900-afcf-8cf62484c45d" />
+
+
 </br>
 
 ## 🧠 AI Support for Neurodiverts (and anyone else)
