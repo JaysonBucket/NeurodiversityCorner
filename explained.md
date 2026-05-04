@@ -1,3 +1,5 @@
+[↑ Back](../README.md)
+
 ## Neurodiversity: Cognitive Diversity as a Strength, Not a Deficit
 
 This repository is built on a simple idea:
