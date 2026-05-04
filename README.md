@@ -2,20 +2,20 @@
 
 This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview: https://www.jaysons.dev  
 
-## TL;DR — Why Neurodiversity matters
+## Why Neurodiversity matters
 
-- Different brains think differently — and that’s a strength. Biology shows this clearly: even within a single species (like octopuses), individuals solve the same problems in different but equally successful ways.
-- There is no single “normal” or “best” way to think. Cognitive diversity includes different learning styles, strategies, and perspectives. Variation is natural, stable, and useful.
-- Diversity enables better systems. Groups with diverse cognitive approaches are more robust, creative, and innovative than groups optimized for sameness.
-- Neurodiversity ≠ deficit. Moving away from a deficit model is not ideology — it’s evidence‑based. Difference is an enabler, not something to fix.
-- This project is built for that reality. It embraces multiple ways of thinking, working, and problem solving — because that’s how complex problems actually get solved.  
+**Different ways of thinking are not a problem to fix.  
+They are a feature that enables better outcomes.**
 
-**Cognitive diversity is not a risk. It’s the recipe for resilience, creativity, and success.**  
+This perspective is not only social or philosophical.  
+It is strongly supported by biology and cognitive science.
 
 
-[Check out Otto's area to see what we can learn from octopuses when it comes to ND](explained.md)
-<img width="160" height="160" alt="otto" src="https://github.com/user-attachments/assets/f7e3b571-ba5d-4900-afcf-8cf62484c45d" />
+</br>
 
+<img width="160" height="160" alt="otto" src="https://github.com/user-attachments/assets/f7e3b571-ba5d-4900-afcf-8cf62484c45d" />  
+
+[Check out Ottos area to see what we can learn from octopuses when it comes to ND](explained.md)
 
 </br>
 
