@@ -1,4 +1,4 @@
-[↑ Back](../README.md)
+[↑ Back](README.md)
 
 ## Neurodiversity: Cognitive Diversity as a Strength, Not a Deficit
 
